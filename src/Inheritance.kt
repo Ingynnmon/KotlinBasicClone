@@ -22,6 +22,6 @@ fun main(args:Array<String>){
     var op=Operations()
     var sum=op.sum(10,15)
     println("Sum: "+sum)
-
+    println( op.div(20,4))
 
 }
