@@ -14,4 +14,5 @@ class UserOp(override var num: Int):op{
 }
 fun main(args:Array<String>){
     val userOp=UserOp(30)
+    println(userOp.toString()
 }
